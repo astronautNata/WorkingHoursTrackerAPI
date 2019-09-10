@@ -30,3 +30,5 @@ node server
 - MongoDB - data storage solution that just speaks JSON and pairs very well with Node
 - - Mongoose - package that helps with object modeling and manages connection between server and database
 
+# Remarks
+.env file is commited so it is available for testing
